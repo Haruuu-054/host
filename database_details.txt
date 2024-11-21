@@ -1,0 +1,7 @@
+host: bhxhdkkwruiy3vwunh6j-mysql.services.clever-cloud.com
+
+database name: bhxhdkkwruiy3vwunh6j
+
+user: upw5zljicmxlfyxr
+
+password: C7OAUQUwk2cLbFZPVsGh
